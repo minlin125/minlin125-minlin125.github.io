@@ -90,9 +90,16 @@
 .card-body a{
     background: #2F798C;
     color: #ffffff;
+    font-weight: bolder;
     margin-left: 60px;
     padding: 10px 50px 10px 50px;
     border-radius: 10px;
+}
+
+.card-body a:hover{
+    background: #ffffff;
+    color: #2F798C;
+    border: 2px solid #2F798C;
 }
 
 .manypoint{
