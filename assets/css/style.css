@@ -1,0 +1,118 @@
+.wrap{
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.nav-box{
+	background: url(../img/banner01.jpg) no-repeat;
+    background-size: cover;
+	width: 100%;
+	height: 580px;
+    
+}
+
+.logobar{
+	padding-top: 39px;
+    margin-left: 57px;
+}
+
+.logotext{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.searchform{
+    text-align: center;
+    
+}
+
+.searchform h2,p{
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: bolder;
+    line-height: 55px;
+}
+
+.searchform form{
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+
+.search-bar{
+    width: 40%;
+    padding: 18px;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+}
+
+.search-btn{
+    padding: 10px 25px 15px 25px;
+    background: #2F798C;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 5px;
+    border-radius: 10px;
+    border: 2px solid #2F798C;
+}
+
+
+.search a{
+    background: #2F798C;
+    color: #ffffff;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    padding: 15px 70px 15px 70px;
+    border-radius: 30px;
+}
+
+
+.container h3{
+    color: #2F798C;
+    font-size: 28px;
+    font-weight: bolder;
+    margin: 55px 0 70px 100px;
+}
+
+
+.row{
+    display: flex;
+    justify-content:space-around;;
+    margin-bottom: 20px;
+}
+
+.card{
+    margin-bottom: 20px;
+    box-shadow:1px 3px 5px #cccccc;
+}
+
+.card-body a{
+    background: #2F798C;
+    color: #ffffff;
+    margin-left: 60px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+}
+
+.manypoint{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.manypoint a{
+    background: #fff;
+    border: 2px solid #2F798C;
+    padding: 12px 300px 12px 300px ;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bolder;
+    color: #2F798C;
+}
+
+.manypoint a:hover{
+    background: #2F798C;
+    color: #fff;
+}
